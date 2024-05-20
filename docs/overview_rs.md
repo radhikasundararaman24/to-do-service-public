@@ -5,7 +5,7 @@ layout: page
 # Overview_RS
 
 The To-Do service is a cloud-based platform that offers subscribers a task list 
-where they can post tasks and receive timely reminders. Our API service emulates the REST 
+where they can post tasks and receive timely reminders. Our service provides the REST 
 interface of a cutting-edge cloud-based task management platform. Thereby, delivering a seamless communication between users and their tasks.
 
 ![to-do-service_img.svg](to-do-service_img.svg)
